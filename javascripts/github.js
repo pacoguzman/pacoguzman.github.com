@@ -22,6 +22,9 @@ var Github = {
 					gh.displayRepository('other', repository, false);
 				}
 			}
+      if (repository.fork && !repository.private) {
+        gh.displayRepository('forks', repository, false);
+      }
 		});
 	},
 	displayRepository: function(inside, repo, show_stats) {
