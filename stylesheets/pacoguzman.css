@@ -1,4 +1,4 @@
-/* Quirkey.css */
+/* PacoGuzman.css */
 body {
 	font-family: Georgia, Times, serif;
 	background: #FFF;
@@ -54,21 +54,21 @@ a img {
 #header h1 a {
 	text-decoration: none;
 }
-#quirkey_nav h1 {
+#pacoguzman_nav h1 {
 	font-size:30px;
 	color: #999;
 }
-#quirkey_nav h1 a {
+#pacoguzman_nav h1 a {
 	width: 100px;
 }
-#quirkey_nav h1 span.description {
+#pacoguzman_nav h1 span.description {
 	font-size: 12px;
 	margin-left: 5px;
 }
-.quirkey_nav_close {
+.pacoguzman_nav_close {
 	height: 10px;
 }
-.quirkey_nav_close a {
+.pacoguzman_nav_close a {
 	width: 100%;
 	border-top: 1px solid #E5E5E5;
 	text-decoration: none;
@@ -77,7 +77,7 @@ a img {
 	height: 10px;
 	font-size: 11px;
 }
-.quirkey_nav_close a:hover {
+.pacoguzman_nav_close a:hover {
 	background:#F4F4F4;
 }
 #est {
@@ -93,10 +93,10 @@ a img {
 	font-size: 11px;
 	color: #444;
 }
-#footer .quirkey_links {
+#footer .pacoguzman_links {
 	font-size: 14px;
 }
-#footer .quirkey_links span {
+#footer .pacoguzman_links span {
 	padding: 0px 5px;
 	color: #999;
 }
@@ -113,19 +113,19 @@ a img {
 	line-height: 0px;
 	clear:both;
 }
-.q_code, a.q_code:link, a.q_code:visited {
+.p_code, a.p_code:link, a.p_code:visited {
 	color: #EADA68;
 }
-.q_portfolio, a.q_portfolio:link, a.q_portfolio:visited {
+.p_portfolio, a.p_portfolio:link, a.p_portfolio:visited {
 	color: #B76C29;
 }
-.q_log, a.q_log:link, a.q_log:visited {
+.p_log, a.p_log:link, a.p_log:visited {
 	color: #22395B;
 }
-.q_blog, a.q_blog:link, a.q_blog:visited {
+.p_blog, a.p_blog:link, a.p_blog:visited {
 	color: #3C6A8F;
 }
-.q_com, a.q_com:link, a.q_com:visited {
+.p_com, a.p_com:link, a.p_com:visited {
 	color: #72391E;
 }
 

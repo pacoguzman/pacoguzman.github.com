@@ -3,7 +3,7 @@ var Github = {
 		this.fetch();
 	},
 	fetch: function() {
-		$.getJSON('http://github.com/api/v1/json/quirkey?callback=?', Github.load);
+		$.getJSON('http://github.com/api/v1/json/pacoguzman?callback=?', Github.load);
 	},
 	load: function(github_data) {
 		var gh = Github;
