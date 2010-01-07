@@ -1,7 +1,15 @@
 .highlight {
-	line-height: 120%;
+	font-size: 13px;
 	border-top: 1px solid #CCC;
 	border-bottom: 1px solid #CCC;
+}
+.highlight br {
+  height: 0px;
+}
+.highlight pre {
+  background: #FEFEFE;
+  color: #333;
+  line-height: 100%;
 }
 .hll { background-color: #ffffcc }
 .c { color: #408080; font-style: italic } /* Comment */

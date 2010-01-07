@@ -4,8 +4,13 @@
 #projects_other {
 	
 }
+.repo {
+	width: 50%;
+	float:left;
+	height: 100px;
+}
 #projects_popular .repo {
-	
+	height: 140px;
 }
 #projects_popular .repo h3 {
 	color: #CCC;
@@ -18,15 +23,15 @@
 #projects_popular .repo h3 a:hover {
 	color:#333;
 }
-
+#projects_popular .repo .url a {
+  font-size: 14px;
+  text-decoration:none;
+}
 #projects_popular .repo p {
 	font-size: 18px;
 	color:#666;
 }
-.repo {
-	width: 50%;
-	float:left;
-}
+
 #projects_other .repo h3 {
 	margin-bottom: 0px;
 }
